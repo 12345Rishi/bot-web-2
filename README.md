@@ -1,17 +1,34 @@
+# Discord bots website template
+
+Amazing website with good UI design for new Discord bots, designed with Bootstrap & now-ui-kit available in English and Arabic.
+
+![Screenshot](https://raw.githubusercontent.com/NourEldienHE/Discord-bot-website-template/master/Screenshot_2.png)
 
 
-# www.rgbbot.tk
+## Getting Started
 
-# Full Credits To Nuridio
+Download or fork the repo to get started!
 
-__Fork This Repl__
+### Installing
 
-__Don't Forgot To Invite [RGB](https://www.rgbbot.tk)__
+Download or fork the repo
 
-__What? Fork The Repl!!__
+```
+git clone https://github.com/NourEldienHE/Discord-bot-website-template.git
+```
 
-__Why Are You Reading Go And Fork__
+Open index.html and start to use the website 
 
-__Still Here Gooo!!__
+## Built With
 
-___I Am Angry! Get Out Of Here___
+* [Bootstrap](https://getbootstrap.com/) - The web framework used
+* [Now-ui-kit](https://demos.creative-tim.com/now-ui-kit/index.html) - Dependency Management
+
+## Authors
+
+[Nouridio](https://github.com/NourEldienHE)
+
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
