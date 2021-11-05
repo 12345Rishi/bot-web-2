@@ -28,6 +28,10 @@ Open index.html and start to use the website
 
 [Nouridio](https://github.com/NourEldienHE)
 
+## Uploader
+
+[Rishiraj](https://www.rgbbot.tk)
+
 
 ## License
 
